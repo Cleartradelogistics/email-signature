@@ -38,8 +38,7 @@
   <!-- Small Logo -->
   <tr>
     <td style="padding-bottom: 4px;">
-      <img src="<img width="500" height="500" alt="unnamed" src="https://github.com/user-attachments/assets/b45177cc-5b47-443d-b3d4-71c0cd6b0ac0" />
-" alt="ClearTradeLogistics Logo" width="100" style="display: block; width: 100px; height: auto; border: none;" />
+      <img src="https://github.com/user-attachments/assets/b45177cc-5b47-443d-b3d4-71c0cd6b0ac0" alt="ClearTradeLogistics Logo" width="100" style="display: block; width: 100px; height: auto; border: none;" />
     </td>
   </tr>
 
