@@ -21,7 +21,7 @@
   <!-- Contact Info -->
   <tr>
     <td style="padding-bottom: 3px; font-size: 13px; color: #4A5568; font-style: italic;">
-      <strong>m:</strong> <a href="tel:0621492996" style="color: #4A5568; text-decoration: none; font-style: normal;"> +27 62 149 2996</a>
+      <strong>m:</strong> <a href="tel:+27621492996" style="color: #4A5568; text-decoration: none; font-style: normal;">+27 62 149 2996</a>
     </td>
   </tr>
   <tr>
@@ -38,7 +38,7 @@
   <!-- Small Logo -->
   <tr>
     <td style="padding-bottom: 4px;">
-      <img src="https://raw.githubusercontent.com/YourUsername/repository-name/main/unnamed.png" alt="ClearTradeLogistics Logo" width="100" style="display: block; width: 100px; height: auto; border: 0;" />
+      <img src="https://raw.githubusercontent.com/YourUsername/repository-name/main/unnamed.png" alt="ClearTradeLogistics Logo" width="100" style="display: block; width: 100px; height: auto; border: none;" />
     </td>
   </tr>
 
